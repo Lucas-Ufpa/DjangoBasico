@@ -1,5 +1,7 @@
+passo a passo
+
 pip install django==3.1.4 \\ instala as dependências da framework
 
-django-admin startproject DjangoBasico . \\iniciar o projeto em django
+django-admin startproject DjangoBasico . \\ iniciar o projeto em django
 
 python manage.py runserver   \\ subir o servidor local
